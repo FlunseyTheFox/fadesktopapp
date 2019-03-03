@@ -1,0 +1,1 @@
+If for some reason are not able to download a ZIP file, download all the files and put them inside the same directory.
