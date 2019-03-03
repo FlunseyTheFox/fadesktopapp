@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <configSections>
+        <sectionGroup name="userSettings" type="System.Configuration.UserSettingsGroup, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" >
+            <section name="Furs_One_App.My.MySettings" type="System.Configuration.ClientSettingsSection, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" allowExeDefinition="MachineToLocalUser" requirePermission="false" />
+        </sectionGroup>
+    </configSections>
+    <startup>
+        <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.6.1" />
+    </startup>
+    <userSettings>
+        <Furs_One_App.My.MySettings>
+            <setting name="bookmarks" serializeAs="Xml">
+                <value>
+                    <ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                        xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+                </value>
+            </setting>
+            <setting name="fachecklogin" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="fausername" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="fapassword" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="mainbrowser" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="fasendto" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="faprev" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="faautodownload" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="faischeck2" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="faflpcheck" serializeAs="String">
+                <value>1</value>
+            </setting>
+            <setting name="faenforcesfw" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="cversion" serializeAs="String">
+                <value>1.0.0</value>
+            </setting>
+        </Furs_One_App.My.MySettings>
+    </userSettings>
+</configuration>
